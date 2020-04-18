@@ -1,10 +1,4 @@
-.table-responsive {
-    direction: ltr;
-    overflow-x: scroll; 
-    overflow: scroll;
-  }
-  .table-responsive > table {
-    direction: rtl;
-    overflow-x: scroll;
-    overflow: scroll;
-  }
+.table-responsive .table {
+    max-width: none;
+    -webkit-overflow-scrolling: touch;
+}
