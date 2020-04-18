@@ -15,21 +15,7 @@ body {
     margin-right: 5%;
     
 }
-.table-responsive {
-    -webkit-overflow-scrolling: touch;
-    direction: ltr;
-    }
-    .table-responsive > table {
-    direction: rtl !important;
-    }
-    table, th {
-    direction:rtl
-    }
-    table, tr {
-    direction:rtl;
-    
-    }
-    
+
   
 .tabal{
     margin-top: 10%;
