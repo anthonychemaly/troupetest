@@ -1,0 +1,50 @@
+body ,html{
+
+    overflow:hidden;
+
+}
+body {
+    width:100%;
+    height:100%;
+}
+.image{
+    max-height: 10%;
+    max-width: 25%;
+    margin-top: 5%;
+    margin-left: 5%;
+    margin-right: 5%;
+    
+}
+
+.tabal{
+    margin-top: 10%;
+}
+body {
+   
+    background-color: #205d9d !important;
+}
+
+.jesus {
+    margin:0;
+    max-width: 100%;
+    
+}
+
+
+
+.pst{
+    margin:0;
+    width:100%;
+}
+
+.hello{
+    text-align:center;
+ font-size: 250%; 
+    font-weight: bolder;
+    font-family: 'Poppins', sans-serif;
+    color:white;
+    white-space: nowrap;
+    
+    margin-top:5%;
+   
+}
