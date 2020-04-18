@@ -1,0 +1,6 @@
+.table-responsive {
+    direction: ltr;
+  }
+  .table-responsive > table {
+    direction: rtl;
+  }
