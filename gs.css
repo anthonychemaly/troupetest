@@ -1,4 +1,5 @@
 .table-responsive .table {
     max-width: none;
     -webkit-overflow-scrolling: touch;
+    overflow-y: scroll;
 }
